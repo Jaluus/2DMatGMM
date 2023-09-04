@@ -2,7 +2,12 @@
 
 ![2DMatGMM_Logo](etc/logo.png)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2306.14845-b31b1b.svg)](https://arxiv.org/abs/2306.14845) [![Database Demo Website](https://img.shields.io/badge/Website-Demo-blue)](https://flakedemo.uslu.tech) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3900486.svg)](https://doi.org/10.5281/zenodo.8042835) [![BibTeX](https://img.shields.io/badge/BibTeX-gray)](#Citing2DMatGMM)
+[![arXiv](https://img.shields.io/badge/arXiv-2306.14845-b31b1b.svg)](https://arxiv.org/abs/2306.14845)
+[![Database Demo Website](https://img.shields.io/badge/Website-Demo-blue)](https://flakedemo.uslu.tech)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3900486.svg)](https://doi.org/10.5281/zenodo.8042835)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pcAHflZPICLbKerWgPH2qr7yqvgsR1_S?usp=sharing)
+[![BibTeX](https://img.shields.io/badge/BibTeX-gray)](#Citing2DMatGMM)
 
 This repository hosts the code and related resources for the 2DMatGMM project, a robust machine learning system designed to detect and classify 2D material flakes in real-time. The details of the project are published on arXiv in the paper titled "[An open-source robust machine learning platform for real-time detection and classification of 2D material flakes](https://arxiv.org/abs/2306.14845)".
 
@@ -34,6 +39,12 @@ To install and set up your system to use 2DMatGMM, follow the [installation inst
 
 This repository comes with weights pretrained on the datasets used in the paper.
 To use the detector for you own projects check out the [Getting Started](GETTING_STARTED.md) guide.
+
+## Quick Start
+
+You may also quickly hop in by trying out the demo on Google Colab. The demo is a Jupyter Notebook which runs the detector on a few demo images from the testset of the Graphene Dataset.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pcAHflZPICLbKerWgPH2qr7yqvgsR1_S?usp=sharing)
 
 ## <a name="Citing2DMatGMM"></a>Citing 2DMatGMM
 
