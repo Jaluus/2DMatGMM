@@ -1,0 +1,20 @@
+build/
+*.egg-info
+__pycache__
+
+# dont commit the plots
+FalsePositiveDetector/plots/*.png
+GMMDetector/plots/*.png
+
+# dont commit the results
+Output
+
+# dont commit the datasets
+*.zip
+Datasets/FalsePositiveDetectorDataset/test
+Datasets/FalsePositiveDetectorDataset/train
+Datasets/GMMDetectorDatasets/Graphene
+Datasets/GMMDetectorDatasets/WSe2
+
+# Dont commit VSCode settings
+.vscode
