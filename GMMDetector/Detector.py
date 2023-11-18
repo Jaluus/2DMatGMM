@@ -757,7 +757,9 @@ class MaterialDetector:
             contrast_image
         )
 
-        semantic_masks = self.postprocess_mh_map(mh_distance_map)
+        semantic_masks = self.postprocess_mh_map(
+            mh_distance_map, distance_threshold=self.standard_deviation_threshold
+        )
 
         for layer_index, layer_mask in enumerate(semantic_masks):
             layer_name = self.layer_name_lookup[layer_index]
