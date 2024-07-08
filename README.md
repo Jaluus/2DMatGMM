@@ -3,6 +3,7 @@
 ![2DMatGMM_Logo](etc/logo.png)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2306.14845-b31b1b.svg)](https://arxiv.org/abs/2306.14845)
+[![IOP](https://img.shields.io/badge/Published-IOP-brightgreen?style=flat)](https://iopscience.iop.org/article/10.1088/2632-2153/ad2287)
 [![Database Demo Website](https://img.shields.io/badge/Website-Demo-blue)](https://flakedemo.uslu.tech)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3900486.svg)](https://doi.org/10.5281/zenodo.8042835)
@@ -48,17 +49,22 @@ You may also quickly hop in by trying out the demo on Google Colab. The demo is 
 
 ## <a name="Citing2DMatGMM"></a>Citing 2DMatGMM
 
-If you use our work or dataset in your research or find the code helpful, we would appreciate a citation to the original paper:
+If you use our work or dataset in your research or find the code helpful, we would appreciate a citation to the original paper:  
+`Jan-Lucas Uslu et al 2024 Mach. Learn.: Sci. Technol. 5 015027`
 
 ```bibtex
-
-@misc{uslu2023opensource,
-      title={An open-source robust machine learning platform for real-time detection and classification of 2D material flakes},
-      author={Jan-Lucas Uslu and Taoufiq Ouaj and David Tebbe and Alexey Nekrasov and Jo Henri Bertram and Marc Schütte and Kenji Watanabe and Takashi Taniguchi and Bernd Beschoten and Lutz Waldecker and Christoph Stampfer},
-      year={2023},
-      eprint={2306.14845},
-      archivePrefix={arXiv},
-      primaryClass={cond-mat.mes-hall}
+@article{Uslu_2024,
+doi = {10.1088/2632-2153/ad2287},
+url = {https://dx.doi.org/10.1088/2632-2153/ad2287},
+year = {2024},
+month = {feb},
+publisher = {IOP Publishing},
+volume = {5},
+number = {1},
+pages = {015027},
+author = {Jan-Lucas Uslu and Taoufiq Ouaj and David Tebbe and Alexey Nekrasov and Jo Henri Bertram and Marc Schütte and Kenji Watanabe and Takashi Taniguchi and Bernd Beschoten and Lutz Waldecker and Christoph Stampfer},
+title = {An open-source robust machine learning platform for real-time detection and classification of 2D material flakes},
+journal = {Machine Learning: Science and Technology},
 }
 
 ```
