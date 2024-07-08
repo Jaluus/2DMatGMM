@@ -37,8 +37,12 @@ for material in MATERIALS:
     with open(contrast_path) as f:
         contrast_dict = json.load(f)
 
-    myDetector = MaterialDetector(contrast_dict=contrast_dict)
-
+    myDetector = MaterialDetector(
+        contrast_dict=contrast_dict,
+        standard_deviation_threshold=5,
+        size_threshold=200,
+        used_channels="BGR",
+    )
     # set up the confusion matrices
     confusion_matrices = {
         fp: ConfusionMatrix(
