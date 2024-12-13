@@ -12,6 +12,14 @@
 
 This repository hosts the code and related resources for the 2DMatGMM project, a robust machine learning system designed to detect and classify 2D material flakes in real-time. The details of the project are published on arXiv in the paper titled "[An open-source robust machine learning platform for real-time detection and classification of 2D material flakes](https://arxiv.org/abs/2306.14845)".
 
+## Updates
+
+**2024/12/13** New Paper!📃  
+We published a new paper on ArXiv called  
+**MaskTerial: A Foundation Model for Automated 2D Material Flake Detection**.  
+It builds on this paper and introduces new extensions for the GMM using deep-learning and improves detection metrics for low contrast materials as well as other materials!
+We are currently waiting for it to be accepted, afterwards we will publish the full code!
+
 ## Features
 
 - **Real-time detection:** The model can detect flakes in real-time on a standard laptop without the need for a GPU.
