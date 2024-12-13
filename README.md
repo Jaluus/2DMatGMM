@@ -16,9 +16,10 @@ This repository hosts the code and related resources for the 2DMatGMM project, a
 
 **2024/12/13** New Paper!📃  
 We published a new paper on ArXiv called  
-**MaskTerial: A Foundation Model for Automated 2D Material Flake Detection**.  
+[**MaskTerial: A Foundation Model for Automated 2D Material Flake Detection**](https://arxiv.org/abs/2412.09333).  
 It builds on this paper and introduces new extensions for the GMM using deep-learning and improves detection metrics for low contrast materials as well as other materials!
 We are currently waiting for it to be accepted, afterwards we will publish the full code!
+The Code Repo can be found [here](https://github.com/Jaluus/MaskTerial)!
 
 ## Features
 
