@@ -1,12 +1,10 @@
 # Datasets and their Usage
 
-The datasets used in the 2DMatGMM project are currently hosted privately. They will be made available on [Zenodo](https://zenodo.org) soon.
+The Datasets are all available on Zenodo and can be downloaded using the links below.
 
-Download links are available here:
-
-- [Graphene GMM Dataset](https://backend.uslu.tech/downloads/data/Graphene.zip)
-- [WSe2 GMM Dataset](https://backend.uslu.tech/downloads/data/WSe2.zip)
-- [False Positive Dataset](https://backend.uslu.tech/downloads/data/FP_Detector_Dataset.zip)
+- [Graphene GMM Dataset](https://zenodo.org/records/8042835/files/Graphene_Dataset.zip?download=1)
+- [WSe2 GMM Dataset](https://zenodo.org/records/8042835/files/WSe2_Dataset.zip?download=1)
+- [False Positive Dataset](https://zenodo.org/records/8042835/files/FP_Detector_Dataset.zip?download=1)
 
 ## GMM Detector Dataset
 

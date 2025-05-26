@@ -38,7 +38,8 @@ The paper comprises three repositories each containing a part of the project:
 
 ## Dataset
 
-This Repository contains the dataset used in the paper. The dataset will be made available for download on [Zenodo](https://doi.org/10.5281/zenodo.8042835). It is currently privately hosted.
+This Repository contains the dataset used in the paper.
+The datasets are available for download on [Zenodo](https://doi.org/10.5281/zenodo.8042835).
 The download links as well as metadata about the dataset and usage can be found in the [Dataset Guide](./Datasets/README.md).
 
 ## Installation
