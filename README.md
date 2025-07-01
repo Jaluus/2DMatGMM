@@ -14,6 +14,10 @@ This repository hosts the code and related resources for the 2DMatGMM project, a
 
 ## Updates
 
+**2025/07/01** MaskTerial Code Release!🚀  
+We finally published the code for our new paper [MaskTerial: A Foundation Model for Automated 2D Material Flake Detection](https://arxiv.org/abs/2412.09333) on GitHub!  
+You can find the code for the model in [this Repository](https://github.com/Jaluus/MaskTerial) and the code for the synthetic dataset generation can be found in [this Repository](https://github.com/Jaluus/MaskTerial-Synthetic-Data)!
+
 **2024/12/13** New Paper!📃  
 We published a new paper on ArXiv called  
 [**MaskTerial: A Foundation Model for Automated 2D Material Flake Detection**](https://arxiv.org/abs/2412.09333).  
